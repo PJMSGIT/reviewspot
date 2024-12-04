@@ -1,1 +1,0 @@
-Directory reviewspotDB is the data folder for the MariaDB database we are using to install and manage the site.
