@@ -22,17 +22,6 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `test`
---
-
-CREATE TABLE `test` (
-  `id` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
-
--- --------------------------------------------------------
-
 --
 -- Estructura de tabla para la tabla `wp_commentmeta`
 --
