@@ -4,4 +4,4 @@ TYPE C:\xampp\htdocs\reviewspot\users.sql C:\xampp\htdocs\reviewspot\reviewspotD
 
 cd C:\xampp\htdocs\reviewspot
 
-timeout 5
+timeout 15
